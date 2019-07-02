@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\bin\Debug\TeamTreeHouse_Practice.exe.config
+C:\Users\User\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\bin\Debug\TeamTreeHouse_Practice.exe
+C:\Users\User\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\bin\Debug\TeamTreeHouse_Practice.pdb
+C:\Users\User\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\obj\Debug\TeamTreeHouse_Practice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\obj\Debug\TeamTreeHouse_Practice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\obj\Debug\TeamTreeHouse_Practice.exe
+C:\Users\User\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\obj\Debug\TeamTreeHouse_Practice.pdb
+C:\Users\User\iCloudDrive\Documents\C# Notes\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\bin\Debug\TeamTreeHouse_Practice.exe.config
+C:\Users\User\iCloudDrive\Documents\C# Notes\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\bin\Debug\TeamTreeHouse_Practice.exe
+C:\Users\User\iCloudDrive\Documents\C# Notes\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\bin\Debug\TeamTreeHouse_Practice.pdb
+C:\Users\User\iCloudDrive\Documents\C# Notes\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\obj\Debug\TeamTreeHouse_Practice.csprojAssemblyReference.cache
+C:\Users\User\iCloudDrive\Documents\C# Notes\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\obj\Debug\TeamTreeHouse_Practice.csproj.CoreCompileInputs.cache
+C:\Users\User\iCloudDrive\Documents\C# Notes\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\obj\Debug\TeamTreeHouse_Practice.exe
+C:\Users\User\iCloudDrive\Documents\C# Notes\source\repos\TeamTreeHouse_Practice\TeamTreeHouse_Practice\obj\Debug\TeamTreeHouse_Practice.pdb
